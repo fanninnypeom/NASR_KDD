@@ -23,7 +23,9 @@ python infer.py --data_dir data/ \
 
 
 Evaluation on test dataset outputs the following for our examples:
+
 Precision:
+
 Short:  0.821
 Medium: 0.757
 Long: 0.684
